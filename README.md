@@ -27,15 +27,6 @@ The right side panel does not follow the same behavior as Twitter. As you scroll
 - [Storybook](https://storybook.js.org/)
 - [Vercel](https://vercel.com/)
 
-## Resources
-
-People I followed and checked out their repositories and videos to build the clone.
-
-- [Tru Narla](https://github.com/tnarla)
-- [Colby Fayock](https://github.com/colbyfayock)
-- [Steven Tey](https://github.com/steven-tey)
-- [Lee Rob](https://github.com/leerob)
-- [Florentin](https://github.com/ecklf)
 
 ## What is that?
 If you checkout the package.json, let me try and explain a few
@@ -50,16 +41,10 @@ If you checkout the package.json, let me try and explain a few
 
 [Storybook addon next](https://storybook.js.org/addons/storybook-addon-next)
 
-### Misc
-- [Reusable button component](https://omkarkulkarni.vercel.app/snippets/reusable-button-component)
-- [Absolute imports](https://omkarkulkarni.vercel.app/snippets/absolute-imports)
 
 ## Author
 
-[Roy Quilor](https://github.com/royquilor)
+[Awesome Dev](https://github.com/awesomedev08)
 
-## Connect
 
-- [🐦 Follow me on Twitter](https://twitter.com/RoyQuilor)
-- [📺 Subscribe on YouTube](https://www.youtube.com/c/readydesignerone)
 
